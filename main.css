@@ -1,0 +1,127 @@
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 1rem;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: 'Jaldi', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: 'Jaldi', sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+h5 {
+  font-family: 'Jaldi', sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #ffffff;
+}
+
+.container {
+  background-color: #F5F7F9;
+}
+
+body {
+  background-color: #AEAEAE;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.btn {
+  height: 40px;
+  width: 150px;
+}
+
+.btn:hover {
+  color: #ffffff;
+  background-color: rgba(3, 127, 81, 1);
+  text-decoration: underline;
+}
+
+.row{
+  padding: 20px;
+}
+
+.bg-darkblue {
+  background-color: rgba(0, 21, 75, 0.8);
+  color: #ffffff;
+}
+
+.bg-lightblue {
+  background-color: rgba(0, 156, 210, 0.2);
+}
+
+.bg-darkgreen {
+  background-color: rgba(3, 127, 81, 1);
+}
+
+.bg-almost-black {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.rounded-edges {
+  border-radius: 10px;
+}
+
+.shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand img {
+  height: 60px;
+  margin-right: 10px;
+}
+
+#footer {
+  font-family: 'Karla', sans-serif;
+  font-size: 0.8rem;
+}
+
+#header-navigation .navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+}
+
+#header-information {
+  height: 15%;
+  font-family: 'Karla', sans-serif;
+  font-size: 0.8rem;
+  color: #ffffff;
+  background-color: rgba(0, 156, 210, 1);
+}
+
+#header-navigation {
+  flex: 40%;
+}
+
+#header-desc {
+  flex: 40%;
+}
+
+#section-3-form {
+  height: 150px;
+}
